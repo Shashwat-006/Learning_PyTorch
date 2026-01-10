@@ -10,6 +10,7 @@ The goal of this repository is to build a **strong practical understanding** of 
 ## 🔥 What This Repository Contains
 
 - **PyTorch Basics**
+  
   |--- Importing `torch` and checking GPU availability  
   |--- Getting familiar with **Tensors**  
   |--- Creating tensors, understanding shapes and datatypes  
