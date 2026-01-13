@@ -13,7 +13,7 @@ The goal of this repository is to build a **strong practical understanding** of 
   
   |--- Importing `torch` and checking GPU availability  
   |--- Getting familiar with **Tensors**  
-  |--- Creating tensors, understanding shapes and datatypes  
+  |--- Creating tensors, understanding and manipulating shapes and datatypes  
 
 ---
 
