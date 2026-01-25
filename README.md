@@ -19,8 +19,11 @@ The goal of this repository is to build a **strong practical understanding** of 
 
 - **Autograd**
   
-  |--- Understanding the basics of **autograd**  
+  |--- Understanding the basics of **autograd**
+  
+- **Training Pipeline**
 
+  |--- Learnt about the **Pipeline** of a NN in PyTorch without using **modules** 
   
 ---
 
