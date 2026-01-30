@@ -23,7 +23,12 @@ The goal of this repository is to build a **strong practical understanding** of 
   
 - **Training Pipeline**
 
-  |--- Learnt about the **Pipeline** of a NN in PyTorch without using **modules** 
+  |--- Learnt about the **Pipeline** of a NN in PyTorch without using **modules**
+
+- **Modules**
+  
+  |--- Worked with nn module & optim module on Breast Cancer Dataset
+
   
 ---
 
