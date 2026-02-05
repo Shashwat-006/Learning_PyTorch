@@ -29,6 +29,10 @@ The goal of this repository is to build a **strong practical understanding** of 
   
   |--- Worked with nn module & optim module on Breast Cancer Dataset
 
+- **Dataset & DataLoader Class**
+
+  |--- Improved the code using **Dataset** & **DataLoader** Class through *mini batch gradient descent*
+
   
 ---
 
